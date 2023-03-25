@@ -1,0 +1,44 @@
+table, tr, td {
+    border: 1px solid #242424;
+    border-collapse: collapse;
+    margin: 10px auto;
+    margin-bottom: 35px;
+ }
+
+td {
+    height: 30px;
+    width: 150px;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    font-weight: 500;
+    padding: 5px;
+}
+
+header{
+    text-align: center;
+    margin-top: 30PX;
+    margin-bottom: 35px;
+}
+
+.btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border-style: none;
+    padding: 15px;
+    margin-inline-start: 15px;
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    background-color:#a448fa;
+}
+
+.btn:hover {
+    background-color:#6417ac;
+}
+
+a {
+    text-decoration: none;
+    color: #fcfcfc;
+}

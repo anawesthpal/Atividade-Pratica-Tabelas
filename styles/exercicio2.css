@@ -1,0 +1,41 @@
+table, tr, td {
+    border: 6px solid rgb(223, 223, 223);
+    border-collapse: collapse;
+    border-style:inset;
+    margin: 50px auto;
+    
+}
+
+td {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+ }
+
+header{
+    text-align: center;
+    margin-top: 30PX;
+}
+
+
+.btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border-style: none;
+    padding: 15px;
+    margin-inline-start: 15px;
+    font-family: 'Arial', sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    background-color:#a448fa;
+}
+
+.btn:hover {
+    background-color:#6417ac;
+}
+
+a {
+    text-decoration: none;
+    color: #fcfcfc;
+}
